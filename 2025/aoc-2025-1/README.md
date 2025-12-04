@@ -2,6 +2,19 @@
 
 [Link to the puzzle for Day 1](https://adventofcode.com/2025/day/1)
 
+Summary of the puzzle:
+
+> ### Part 1:
+> You, an Elf, are presented with a safe that has a combination lock. You are given a list of moves (L17, R27 etc).
+> 
+> These moves don't directly open the safe. The actual combination of the safe is the number of times you land on 0 after performing a move.
+>
+> The lock starts at position 50.
+> 
+> ### Part 2:
+> The combination also includes the number of times you *pass through* zero
+
+
 I am currently learning Rust. I haven't programmed anything for about a decade, unless you count bash which I don't.
 
 I feel like I dramatically overcomplicated this!
